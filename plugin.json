@@ -1,0 +1,8 @@
+{
+  "name"              :"PlentyTest",
+  "description"       :"frontend test",
+  "namespace"         :"PlentyTest",
+  "author"            :"Michal Nogas",
+  "type"              :"template",
+  "serviceProvider"   :"plentyTest\\Providers\\plentytestSerrviceProvider"
+}
